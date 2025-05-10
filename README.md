@@ -44,7 +44,6 @@ Este proyecto documenta un laboratorio práctico de seguridad en la nube con Mic
 - `Laboratorio_Azure_Seguridad_2025.pdf`: Guía completa del laboratorio
 - 📄 [Ver documento PDF del laboratorio](Laboratorio_Azure_Seguridad_2025.pdf)
 - `/imagenes/`: Evidencia visual del entorno configurado
-📂 [Ver carpeta de imágenes](https://github.com/Jhon010690/AzureSecurityLab2025/tree/main/imagenes)
 
 ## ✅ Resultado
 Simulación de un entorno seguro con detección automatizada de eventos críticos, control granular de acceso y gestión de identidades, todo dentro del entorno de Azure.
