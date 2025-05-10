@@ -20,7 +20,7 @@ Este proyecto documenta un laboratorio práctico de seguridad en la nube con Mic
 ## 📸 Evidencias del laboratorio
 
 ### 1. Creación de la Máquina Virtual
-![VM](imagenes/creacion_vm.png)
+![VM](https://github.com/Jhon010690/AzureSecurityLab2025/blob/main/Imagenes/Creacion%20de%20Maquina%20Virtual.png)
 
 ### 2. Reglas del NSG configuradas
 ![NSG](imagenes/reglas_nsg.png)
