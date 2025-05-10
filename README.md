@@ -32,7 +32,7 @@ https://github.com/Jhon010690/AzureSecurityLab2025/blob/main/Imagenes/Creacion%2
 https://github.com/Jhon010690/AzureSecurityLab2025/blob/main/Imagenes/Asignacion%20de%20Roles.jpg
 
 ### 5. Creación de VM en Azure
-https://github.com/Jhon010690/AzureSecurityLab2025/blob/main/Imagenes/Creacion%20Maquina%20Virtual.jpg
+![VM](https://github.com/Jhon010690/AzureSecurityLab2025/blob/main/Imagenes/Creacion%20Maquina%20Virtual.jpg)
 
 ### 6. Reglas del NSG configuradas
 https://github.com/Jhon010690/AzureSecurityLab2025/blob/main/Imagenes/Configuracion%20Grupo%20de%20Seguridad.jpg
