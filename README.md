@@ -18,8 +18,8 @@ Este proyecto documenta un laboratorio práctico de seguridad en la nube con Mic
 5. Creación de alertas en Azure Monitor
 
 ## 📎 Archivos
-- `Laboratorio_Azure_Seguridad_2025.docx`: Guía completa del laboratorio
-- `/screenshots/`: Evidencia visual del entorno configurado
+- `Laboratorio_Azure_Seguridad_2025.pdf`: Guía completa del laboratorio
+- `/imagenes/`: Evidencia visual del entorno configurado
 
 ## ✅ Resultado
 Simulación de un entorno seguro con detección automatizada de eventos críticos, control granular de acceso y gestión de identidades, todo dentro del entorno gratuito de Azure.
