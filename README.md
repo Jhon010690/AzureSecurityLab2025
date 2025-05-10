@@ -20,25 +20,25 @@ Este proyecto documenta un laboratorio práctico de seguridad en la nube con Mic
 ## 📸 Evidencias del laboratorio
 
 ### 1. Inicio Portal de Azure
-https://github.com/Jhon010690/AzureSecurityLab2025/blob/main/Imagenes/Inicio%20Portal%20de%20Azure.jpg
+![VM](https://github.com/Jhon010690/AzureSecurityLab2025/blob/main/Imagenes/Inicio%20Portal%20de%20Azure.jpg)
 
 ### 2. Inquilino Azure
-https://github.com/Jhon010690/AzureSecurityLab2025/blob/main/Imagenes/Inquilino%20Azure.jpg
+![VM](https://github.com/Jhon010690/AzureSecurityLab2025/blob/main/Imagenes/Inquilino%20Azure.jpg)
 
 ### 3. Creacion de Usuarios y Grupos
-https://github.com/Jhon010690/AzureSecurityLab2025/blob/main/Imagenes/Creacion%20de%20Usuarios%20y%20Grupos.jpg
+![VM](https://github.com/Jhon010690/AzureSecurityLab2025/blob/main/Imagenes/Creacion%20de%20Usuarios%20y%20Grupos.jpg)
 
 ### 4. Asignacion de Roles RBAC
-https://github.com/Jhon010690/AzureSecurityLab2025/blob/main/Imagenes/Asignacion%20de%20Roles.jpg
+![VM](https://github.com/Jhon010690/AzureSecurityLab2025/blob/main/Imagenes/Asignacion%20de%20Roles.jpg)
 
 ### 5. Creación de VM en Azure
 ![VM](https://github.com/Jhon010690/AzureSecurityLab2025/blob/main/Imagenes/Creacion%20Maquina%20Virtual.jpg)
 
 ### 6. Reglas del NSG configuradas
-https://github.com/Jhon010690/AzureSecurityLab2025/blob/main/Imagenes/Configuracion%20Grupo%20de%20Seguridad.jpg
+![VM](https://github.com/Jhon010690/AzureSecurityLab2025/blob/main/Imagenes/Configuracion%20Grupo%20de%20Seguridad.jpg)
 
 ### 7. Alertas creada en Azure Monitor
-https://github.com/Jhon010690/AzureSecurityLab2025/blob/main/Imagenes/Azure%20Monitor%20-%20Creacion%20de%20alertas.jpg
+![VM](https://github.com/Jhon010690/AzureSecurityLab2025/blob/main/Imagenes/Azure%20Monitor%20-%20Creacion%20de%20alertas.jpg)
 
 ## 📎 Archivos
 - `Laboratorio_Azure_Seguridad_2025.pdf`: Guía completa del laboratorio
