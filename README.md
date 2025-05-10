@@ -11,11 +11,28 @@ Este proyecto documenta un laboratorio práctico de seguridad en la nube con Mic
 - Máquina Virtual Windows Server
 
 ## 🛠️ Pasos realizados
-1. Creación de VM con Windows Server
-2. Configuración de reglas NSG (puerto RDP)
-3. Gestión de identidades con Azure AD
-4. Asignación de roles RBAC
-5. Creación de alertas en Azure Monitor
+1. Creación de VM en Azure
+3. Configuración de reglas NSG (puerto RDP)
+4. Gestión de identidades con Azure AD
+5. Asignación de roles RBAC
+6. Creación de alertas en Azure Monitor
+
+## 📸 Evidencias del laboratorio
+
+### 1. Creación de la Máquina Virtual
+![VM](imagenes/creacion_vm.png)
+
+### 2. Reglas del NSG configuradas
+![NSG](imagenes/reglas_nsg.png)
+
+### 3.Gestión de identidades con Azure AD
+![AD](imagenes/Creacion de Usuarios y Grupos.png)
+
+### 4. Asignación de roles RBAC
+![RBAC](imagenes/asignacion_rbac.png)
+
+### 5. Alerta creada en Azure Monitor
+![Alerta](imagenes/alerta_monitor.png)
 
 ## 📎 Archivos
 - `Laboratorio_Azure_Seguridad_2025.pdf`: Guía completa del laboratorio
