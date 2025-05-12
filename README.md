@@ -1,4 +1,4 @@
-# 🔐 Laboratorio de Seguridad en la Nube con Azure (2025)
+# 🔐 FortiSecureCloud – Laboratorio de Seguridad en Microsoft Azure (2025)
 
 Este proyecto documenta un laboratorio práctico de seguridad en la nube con Microsoft Azure. Se aplican conceptos clave como control de acceso, monitoreo de recursos y gestión de identidad mediante Azure AD, RBAC y alertas, alineado con los conceptos de la certificación AZ-900.
 
